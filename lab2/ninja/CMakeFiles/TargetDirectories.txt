@@ -1,0 +1,4 @@
+/home/vanya/vault/kpi/study/semester5/ak/lab2/project_rm/ninja/CMakeFiles/mylib.dir
+/home/vanya/vault/kpi/study/semester5/ak/lab2/project_rm/ninja/CMakeFiles/main.dir
+/home/vanya/vault/kpi/study/semester5/ak/lab2/project_rm/ninja/CMakeFiles/edit_cache.dir
+/home/vanya/vault/kpi/study/semester5/ak/lab2/project_rm/ninja/CMakeFiles/rebuild_cache.dir
